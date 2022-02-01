@@ -1,0 +1,21 @@
+/* 10 */
+/* 
+a[href="http://www.google.com"]
+{
+  color: red;
+} */
+
+/* 10 */
+/* Que todos inicien con http */
+/* a[href^='http'] {
+  color: red;
+} */
+
+/* Que todos finalicen con .com */
+a[href$='.com'] {
+  color: red;
+}
+
+input[type='tel'] {
+  border: 2px solid red;
+}
