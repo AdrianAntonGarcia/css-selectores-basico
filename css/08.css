@@ -1,0 +1,5 @@
+/* 8 */
+/* El > indica el primer nivel de hijos */
+.admin > div {
+  border: 2px solid red;
+}
