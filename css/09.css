@@ -1,0 +1,5 @@
+/* 9 */
+/* El + indica que vaya al siguiente nivel hermano del div */
+.admin div + p {
+  background-color: red;
+}
