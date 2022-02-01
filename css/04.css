@@ -1,0 +1,9 @@
+/* 4 */
+/* Normalmente el selector no debe exceder las 3 clases o 3 niveles */
+.header .descripcion {
+  color: red;
+}
+
+.descripcion {
+  color: blueviolet;
+}
