@@ -1,0 +1,9 @@
+/* 15 */
+
+.primer-letra::first-letter {
+  font-size: 20rem;
+}
+
+.primer-linea::first-line {
+  font-size: 6rem;
+}
